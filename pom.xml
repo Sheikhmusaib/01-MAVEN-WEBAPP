@@ -10,8 +10,8 @@
   
   
   <properties> 
-  <sonar.host.url>http://54.163.57.69:9000/</sonar.host.url> 
-  <sonar.login>d52a5e8b0f84109ef8948a27912519fe51ca390c</sonar.login> 
+  <sonar.host.url>http://54.237.154.10:9000/</sonar.host.url> 
+  <sonar.login>squ_dbcc8f196f70fbc77937748fbbd8687baf6a7eaa</sonar.login> 
   </properties> 
 
   
